@@ -64,3 +64,15 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 
 **Happy Coding! 🚀**
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
