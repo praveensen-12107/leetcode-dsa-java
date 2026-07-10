@@ -1,5 +1,3 @@
-# leetcode-dsa-java
-Java solutions to LeetCode problems, organized by DSA topics for coding interview preparation.
 # 🚀 LeetCode Java DSA
 
 Welcome to my **LeetCode Java DSA** repository! This repository documents my journey of solving LeetCode problems using **Java** to strengthen my understanding of **Data Structures and Algorithms (DSA)** and prepare for technical interviews.
