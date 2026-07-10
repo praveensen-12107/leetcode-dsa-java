@@ -80,6 +80,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | ------- |
 | [0009-palindrome-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,4 +89,13 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
