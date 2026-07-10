@@ -75,4 +75,8 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
