@@ -1,2 +1,68 @@
 # leetcode-dsa-java
 Java solutions to LeetCode problems, organized by DSA topics for coding interview preparation.
+# 🚀 LeetCode Java DSA
+
+Welcome to my **LeetCode Java DSA** repository! This repository documents my journey of solving LeetCode problems using **Java** to strengthen my understanding of **Data Structures and Algorithms (DSA)** and prepare for technical interviews.
+
+## 📌 About
+
+This repository contains well-organized Java solutions to LeetCode problems, categorized by topic and accompanied by clean, readable code. It serves as both a personal learning archive and a resource for interview preparation.
+
+## 🎯 Objectives
+
+* Solve **100+ LeetCode** problems consistently.
+* Strengthen problem-solving and algorithmic thinking.
+* Master core Data Structures and Algorithms.
+* Build a structured repository for coding interview preparation.
+* Track learning progress over time.
+
+## 🛠️ Tech Stack
+
+* **Language:** Java
+* **Platform:** LeetCode
+* **Topics:** Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs, Dynamic Programming, Greedy, Backtracking, Binary Search, and more.
+
+## 📂 Repository Structure
+
+```text
+leetcode-java-dsa/
+├── Arrays/
+├── Strings/
+├── HashMap/
+├── TwoPointers/
+├── BinarySearch/
+├── LinkedList/
+├── Stack/
+├── Queue/
+├── Trees/
+├── Graph/
+├── Heap/
+├── Greedy/
+├── Backtracking/
+├── DynamicProgramming/
+└── README.md
+```
+
+## 📊 Progress
+
+| Goal            | Progress       |
+| --------------- | -------------- |
+| Problems Solved | **0 / 100**    |
+| Language        | **Java**       |
+| Status          | 🟢 In Progress |
+
+## 🌟 Why This Repository?
+
+* Clean and optimized Java solutions.
+* Topic-wise organization for easy navigation.
+* Continuous updates as I solve new problems.
+* Focused on coding interview preparation and DSA mastery.
+
+## ⭐ Support
+
+If you find this repository helpful, consider giving it a **⭐ Star**. Feedback and suggestions are always welcome.
+
+---
+
+**Happy Coding! 🚀**
+
