@@ -72,6 +72,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | ------- |
 | [0001-two-sum](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0001-two-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0989-add-to-array-form-of-integer) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,4 +109,12 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1518-water-bottles) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
