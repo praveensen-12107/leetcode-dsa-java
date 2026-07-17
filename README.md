@@ -72,6 +72,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | ------- |
 | [0001-two-sum](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0238-product-of-array-except-self) |
@@ -144,6 +145,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0977-squares-of-a-sorted-array) |
@@ -155,4 +157,8 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0319-bulb-switcher) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
