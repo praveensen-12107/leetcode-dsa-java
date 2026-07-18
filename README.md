@@ -77,6 +77,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0989-add-to-array-form-of-integer) |
@@ -141,6 +142,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0004-median-of-two-sorted-arrays](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
