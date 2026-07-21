@@ -76,6 +76,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0027-remove-element](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -121,6 +122,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1137-n-th-tribonacci-number) |
@@ -167,6 +169,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | ------- |
 | [0011-container-with-most-water](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0977-squares-of-a-sorted-array) |
@@ -186,4 +189,12 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1394-find-lucky-integer-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
