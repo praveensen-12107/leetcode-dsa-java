@@ -94,6 +94,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,6 +165,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0540-single-element-in-a-sorted-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -195,6 +197,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
 |  |
 | ------- |
