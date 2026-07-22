@@ -82,6 +82,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0540-single-element-in-a-sorted-array) |
@@ -140,6 +141,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0977-squares-of-a-sorted-array) |
@@ -188,6 +190,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0179-largest-number) |
 ## Counting
 |  |
 | ------- |
@@ -200,4 +203,8 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
