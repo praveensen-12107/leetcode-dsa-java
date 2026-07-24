@@ -1,16 +1,19 @@
 class MyStack {
-    Queue<Integer>  qt;
+    Queue<Integer> qt;
     Queue<Integer> helper;
 
     public MyStack() {
         qt = new LinkedList<>();
         helper = new LinkedList<>();
+
+        
     }
     
     public void push(int x) {
         while(qt.size()!=0){
             helper.add(qt.remove());
 
+            
         }
         qt.add(x);
         while(helper.size()!=0){
@@ -26,8 +29,6 @@ class MyStack {
     
     public int top() {
         return qt.peek();
-
-
         
     }
     
@@ -35,7 +36,7 @@ class MyStack {
         if(qt.size()==0){
             return true;
         }
-        else{
+        else {
             return false;
         }
         
