@@ -88,6 +88,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0215-kth-largest-element-in-an-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -123,6 +124,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | ------- |
 | [0231-power-of-two](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -171,6 +173,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0162-find-peak-element](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -189,6 +192,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0042-trapping-rain-water](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
