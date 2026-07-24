@@ -3,26 +3,27 @@ class MinStack {
     Stack<Integer> minst;
 
     public MinStack() {
-        st = new Stack<>();
-        minst= new Stack<>();
+        st= new Stack<>();
+        minst = new Stack<>();
         
     }
     
     public void push(int value) {
         if(st.size()==0 || value<=minst.peek()){
             minst.push(value);
-        } 
+        }
         st.push(value);
+
         
     }
     
     public void pop() {
         if(st.size()>0){
-            int ele1=minst.peek();
             int ele=st.peek();
-            if(ele1==ele){
-                minst.pop();
+            int ele1=minst.peek();
+            if(ele==ele1){
                 
+                minst.pop();
             }
             st.pop();
         }
