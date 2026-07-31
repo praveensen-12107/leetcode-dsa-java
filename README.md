@@ -138,6 +138,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0394-decode-string) |
@@ -296,5 +297,6 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
