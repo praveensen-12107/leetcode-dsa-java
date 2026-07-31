@@ -218,6 +218,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0011-container-with-most-water](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0179-largest-number) |
 | [0881-boats-to-save-people](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Counting
 |  |
 | ------- |
@@ -233,6 +234,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0225-implement-stack-using-queues](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0394-decode-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -246,6 +248,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0179-largest-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0179-largest-number) |
 | [0394-decode-string](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0443-string-compression) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1446-consecutive-characters](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1446-consecutive-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Quickselect
