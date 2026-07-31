@@ -227,6 +227,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0225-implement-stack-using-queues) |
@@ -239,6 +240,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0179-largest-number) |
