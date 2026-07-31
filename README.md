@@ -107,6 +107,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | ------- |
 | [0001-two-sum](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
@@ -156,6 +157,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0075-sort-colors](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0881-boats-to-save-people) |
@@ -246,6 +248,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0125-valid-palindrome](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0443-string-compression) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
