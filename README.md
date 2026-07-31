@@ -119,6 +119,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0066-plus-one) |
@@ -138,6 +139,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0234-palindrome-linked-list) |
@@ -297,6 +299,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0234-palindrome-linked-list) |
