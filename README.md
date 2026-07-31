@@ -242,6 +242,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0179-largest-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0179-largest-number) |
 | [0394-decode-string](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0443-string-compression) |
+| [1446-consecutive-characters](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1446-consecutive-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Quickselect
 |  |
