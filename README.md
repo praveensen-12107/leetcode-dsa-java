@@ -78,6 +78,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0035-search-insert-position](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0128-longest-consecutive-sequence) |
@@ -152,6 +153,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1518-water-bottles) |
 ## Sorting
@@ -279,6 +281,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
