@@ -223,6 +223,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0443-string-compression](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0977-squares-of-a-sorted-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -313,5 +314,6 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0237-delete-node-in-a-linked-list](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0328-odd-even-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1019-next-greater-node-in-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
