@@ -328,17 +328,21 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0101-symmetric-tree) |
 | [0965-univalued-binary-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0101-symmetric-tree) |
 | [0965-univalued-binary-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0101-symmetric-tree) |
 | [0965-univalued-binary-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0101-symmetric-tree) |
 | [0965-univalued-binary-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0965-univalued-binary-tree) |
 <!---LeetCode Topics End-->
