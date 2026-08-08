@@ -332,6 +332,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | ------- |
 | [0101-symmetric-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0257-binary-tree-paths) |
 | [0965-univalued-binary-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0965-univalued-binary-tree) |
@@ -347,12 +348,14 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | ------- |
 | [0101-symmetric-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0965-univalued-binary-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0257-binary-tree-paths) |
 | [0965-univalued-binary-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0965-univalued-binary-tree) |
