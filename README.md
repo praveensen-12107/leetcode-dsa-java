@@ -338,6 +338,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0145-binary-tree-postorder-traversal](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0543-diameter-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -348,6 +349,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0145-binary-tree-postorder-traversal](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0543-diameter-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -369,9 +371,14 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0145-binary-tree-postorder-traversal](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0543-diameter-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0965-univalued-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0257-binary-tree-paths) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
