@@ -13,8 +13,9 @@
  *     }
  * }
  */
-class Solution {List<Integer> ans = new ArrayList<>();
-public void helper ( TreeNode root , List<Integer> ans , int level){
+class Solution {
+    List<Integer> ans = new ArrayList<>();
+    public void helper ( TreeNode root , List<Integer> ans , int level){
     if(root==null){
         return ;
     }
