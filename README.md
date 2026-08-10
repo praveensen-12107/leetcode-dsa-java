@@ -211,6 +211,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0053-maximum-subarray](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0215-kth-largest-element-in-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -243,6 +244,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0179-largest-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0179-largest-number) |
 | [0881-boats-to-save-people](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1382-balance-a-binary-search-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting
 |  |
 | ------- |
@@ -344,6 +346,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0543-diameter-of-binary-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0965-univalued-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -355,6 +358,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0257-binary-tree-paths](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0543-diameter-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0965-univalued-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -379,6 +383,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0543-diameter-of-binary-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0965-univalued-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1382-balance-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -392,4 +397,5 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0700-search-in-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
