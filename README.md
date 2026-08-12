@@ -144,6 +144,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | ------- |
 | [0002-add-two-numbers](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0394-decode-string) |
@@ -323,6 +324,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0083-remove-duplicates-from-sorted-list](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0160-intersection-of-two-linked-lists](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0328-odd-even-linked-list) |
