@@ -10,11 +10,11 @@
  * }
  */
 public class Solution {
-    public int sizeLL(ListNode head ){
-        int count =0;
+    public int sizeLL(ListNode head){
+        int count=0;
         ListNode ptr=head;
         while(ptr!=null){
-            count ++;
+            count++;
             ptr=ptr.next;
         }
         return count;
@@ -40,8 +40,8 @@ public class Solution {
         while(ptr1!=ptr2){
             ptr1=ptr1.next;
             ptr2=ptr2.next;
+
         }
         return ptr1;
-        
     }
 }
