@@ -93,6 +93,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0268-missing-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0540-single-element-in-a-sorted-array) |
+| [0682-baseball-game](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0867-transpose-matrix) |
@@ -166,6 +167,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0059-spiral-matrix-ii) |
+| [0682-baseball-game](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1518-water-bottles) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -268,6 +270,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0232-implement-queue-using-stacks](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0394-decode-string) |
+| [0682-baseball-game](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1019-next-greater-node-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/2816-double-a-number-represented-as-a-linked-list) |
