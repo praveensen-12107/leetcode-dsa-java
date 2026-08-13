@@ -261,6 +261,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | ------- |
 | [0020-valid-parentheses](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0225-implement-stack-using-queues) |
@@ -349,6 +350,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0257-binary-tree-paths) |
@@ -363,6 +365,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0101-symmetric-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0257-binary-tree-paths) |
@@ -388,6 +391,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0257-binary-tree-paths) |
