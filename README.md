@@ -87,6 +87,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0238-product-of-array-except-self) |
@@ -115,6 +116,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0001-two-sum](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -175,6 +177,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0242-valid-anagram) |
@@ -215,6 +218,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0023-merge-k-sorted-lists](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
@@ -255,6 +259,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -422,4 +427,8 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0700-search-in-a-binary-search-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0700-search-in-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1382-balance-a-binary-search-tree) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
