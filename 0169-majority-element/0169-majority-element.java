@@ -9,9 +9,9 @@ class Solution {
             }
         }
         int n = nums.length/2;
-        for(Map.Entry<Integer,Integer> i : map.entrySet()){
-            if(i.getValue()>n){
-                return i.getKey();
+        for(int i : map.keySet()){
+            if(map.get(i)>n){
+                return i;
             }
         }
         return 0;
