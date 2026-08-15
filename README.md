@@ -117,6 +117,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0128-longest-consecutive-sequence](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -128,6 +129,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0009-palindrome-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0319-bulb-switcher) |
@@ -233,6 +235,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0151-reverse-words-in-a-string](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0443-string-compression) |
@@ -431,4 +434,8 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0169-majority-element) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
