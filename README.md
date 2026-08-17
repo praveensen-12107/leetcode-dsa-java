@@ -92,6 +92,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0215-kth-largest-element-in-an-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0682-baseball-game) |
@@ -238,6 +239,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0876-middle-of-the-linked-list) |
