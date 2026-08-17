@@ -45,7 +45,7 @@ leetcode-java-dsa/
 
 | Goal            | Progress       |
 | --------------- | -------------- |
-| Problems Solved | **89/ 100**    |
+| Problems Solved | **90/ 100**    |
 | Language        | **Java**       |
 | Status          | 🟢 In Progress |
 
