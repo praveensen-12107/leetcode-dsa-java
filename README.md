@@ -133,6 +133,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 | [0066-plus-one](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0509-fibonacci-number) |
@@ -173,6 +174,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/1518-water-bottles) |
@@ -442,4 +444,8 @@ If you find this repository helpful, consider giving it a **⭐ Star**. Feedback
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0202-happy-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/praveensen-12107/leetcode-dsa-java/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
